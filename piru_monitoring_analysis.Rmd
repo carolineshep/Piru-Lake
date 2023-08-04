@@ -19,3 +19,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Text outside of the code chunk will be read as normal text when knitting your document
+
+```{r}
+#hi
+```
+
