@@ -13,3 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 #does this work
 ```
 
+```{r}
+# use a hashtag in front of text to make the computer ignore it inside a code chunk
+# Use control+alt+i to create a new code chunk
+```
+
+Text outside of the code chunk will be read as normal text when knitting your document
